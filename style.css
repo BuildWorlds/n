@@ -421,3 +421,7 @@ hr {
 .nav-active {
     transform: translatex(0%);
 }
+
+.instagram-media {
+    background-color: #0b0c0f;
+}
