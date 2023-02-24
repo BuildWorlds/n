@@ -430,4 +430,8 @@ hr {
     text-align: center;
     justify-content: center;
     justify-items: center;
+    list-style: none;
+    text-decoration: none;
+    text-anchor: middle;
+    display: inline-block;
 }
